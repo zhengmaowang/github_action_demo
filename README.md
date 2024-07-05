@@ -1,1 +1,2 @@
-Author: Rock Wang
+# Author: Rock Wang
+* purpose: practice github action workflow
